@@ -8,11 +8,11 @@ ni ska forka det här projektet
 
 ## clone
 
-öppna det sedan i pycharm
 
 ## push
 
-skapa er egen version av nick generator och pusha upp dennna
-
+Nick creator. 3 av firstname, 4 av lastname.
+Generarer ett nickname efter ditt first och lastname.
+T.ex Bengt bengtsson= benbeng
 
 
